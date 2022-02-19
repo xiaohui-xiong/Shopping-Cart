@@ -1,0 +1,23 @@
+{
+  "id": "3192300",
+  "name": "小项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "144706",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "339710",
+      "name": "我的账号",
+      "font_class": "wodezhanghao",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}
